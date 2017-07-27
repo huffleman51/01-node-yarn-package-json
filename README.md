@@ -1,3 +1,5 @@
+Tutorial that I followed is [here](https://github.com/verekia/js-stack-walkthrough/tree/master/01-node-yarn-package-json).
+
 ## What I learned in this module
 
 1. Node.js is the JavaScript runtime environment 
